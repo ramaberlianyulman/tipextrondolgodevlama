@@ -1,7 +1,7 @@
 {
   "Ads": [{
     "konten_online":false,
-    "timer_switch_ads":"8000",
+    "timer_switch_ads":"9000",
     "interval_native":3,
     "interval":0,
     "admob_inter": "ca-app-pub-2771753828687041/2720212271",
